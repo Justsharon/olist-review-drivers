@@ -2,8 +2,8 @@
 
 **What predicts a 1-star review on Brazilian e-commerce — and which factor matters most?**
 
- **[Live dashboard →](https://olist-review-drivers.vercel.app/)**
- **[Full analysis notebook →](./notebooks/04_analysis.ipynb)**
+ **[Live dashboard ->](https://olist-review-drivers.vercel.app/)**
+ **[Full analysis notebook ->](./notebooks/04_analysis.ipynb)**
 
 ---
 

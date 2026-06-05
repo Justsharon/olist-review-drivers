@@ -62,8 +62,8 @@ olist-review-drivers/
 │   ├── analysis_queries.sql     # Analysis-equivalent SQL
 │   └── practice/                # Daily SQL drills (CTEs, window functions)
 ├── dashboard/                   # SvelteKit + Tailwind dashboard
-└── data/
-└── README.md                # Download instructions (data not committed)
+├── data/
+└── README.md                    # Download instructions (data not committed)
 
 ## Tech Stack
 

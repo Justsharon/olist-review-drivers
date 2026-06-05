@@ -52,6 +52,7 @@ Each decision is documented in the notebooks with reasoning, not just code.
 
 ## Repo Structure
 
+```text
 olist-review-drivers/
 ├── notebooks/
 │   ├── 01_exploration.ipynb     # Schema mapping, table loading
@@ -64,7 +65,7 @@ olist-review-drivers/
 ├── dashboard/                   # SvelteKit + Tailwind dashboard
 ├── data/
 └── README.md                    # Download instructions (data not committed)
-
+```
 ## Tech Stack
 
 - **Python / Pandas** — data manipulation and joins
